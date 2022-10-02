@@ -1,3 +1,7 @@
+-- THIS TABLE WAS IMPORTED WITH A SQL Server TOOL!!!!!!!!!!!!!!!!
+/* This script create the structure.*/
+
+
 USE [Proyecto Inmobiliaria]
 GO
 

@@ -1,3 +1,5 @@
+-- Database creation
+
 USE [master]
 GO
 

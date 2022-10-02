@@ -1,3 +1,5 @@
+-- This is the MAIN script 
+
 USE [Proyecto Inmobiliaria]
 GO
 SELECT * FROM housing

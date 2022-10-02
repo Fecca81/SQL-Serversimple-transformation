@@ -1,3 +1,6 @@
+/* This script was used for tests purposes and iut serve to 
+'MainTransformations.sql'.*/
+
 USE [Proyecto Inmobiliaria]
 GO
 SELECT * FROM housing
